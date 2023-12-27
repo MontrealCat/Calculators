@@ -15,9 +15,21 @@ Notice:Please follow the steps to select three things:
 
 
 Now include the following behaviors of concrete bridge structures:
+
+
 Shear Transfer Strength (STS) of Cast-in-place Concrete Joints (CCJ)
+
+
 Punching Shear Strength (PSS) of Cast-in-place Concrete Slab-Columm Joints (CCSCJ)
+
+
 Direct Shear Strength (DSS) of Precast Concrete Joints (PCJ)
+
+
 Effective Stiffness (ES) of Precast Concrete Columns (PCC)
+
+
 Drift Capacity (DC) of Precast Concrete Columns (PCC)
+
+
 Residual Drift (RD) of Precast Concrete Columns (PCC)
