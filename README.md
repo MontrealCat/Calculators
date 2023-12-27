@@ -8,7 +8,9 @@ This calculator is a prediction model based on the existing test database for th
 
 
 
-Notice:Please follow the steps to select three things:\n\n 1. The behavior you want to calculate. 2. The algorithm you want to use. 3. The feature selection method you want to apply.
+Notice:Please follow the steps to select three things:
+
+1. The behavior you want to calculate. 2. The algorithm you want to use. 3. The feature selection method you want to apply.
 
 
 
